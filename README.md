@@ -1,4 +1,4 @@
-# Hands-On assignment
+# GDGoC Hands-On assignment
 
 Managing expenses can be hard sometimes but it's that one thing that if we can manage it our life would be somewhat better where we can track and be more careful on where we spend our money on. There are many apps that has help people on this but most of them are apps, GUI, what I present
 
